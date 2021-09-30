@@ -3,7 +3,7 @@ In this Android App , User have to fill  its all  credit card details,  if it is
 </br>
 
 # Technologies used:-
-XML,Java,Android
+XML, Java, Android
 
 
 Screenshots
