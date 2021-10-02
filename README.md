@@ -8,6 +8,6 @@ XML, Java, Android
 
 Screenshots
 -----------
-
+<img align="right" src="screenshots/2.jpeg" img width="30%" > 
 <img width="30%" src="screenshots/1.jpeg" />
-<img width="30%" src="screenshots/2.jpeg" />
+
